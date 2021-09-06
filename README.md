@@ -19,3 +19,10 @@ jekyll new blog_name
 ```
 bundle exec jekyll serve
 ```
+
+### How to add new blog
+
+1. Go to `_posts` folder
+2. Click on `add file` and select `Create new file`
+3. Create file with name - `yy-mm-dd-new_blog_name.md`
+4. Create Pull request and merge to main branch after varification of content
