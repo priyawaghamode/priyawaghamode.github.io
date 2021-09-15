@@ -6,6 +6,7 @@ permalink: /about/
 
 I am Priya Abasaheb Waghamode.I have completed B.Tech from Rajarambapu Institute of Technology, Islampur.
 
+
 Area of Interest:
 Programming Languages: C, Java, Python
 Web Developing Languages: HTML, CSS, Bootstrap
