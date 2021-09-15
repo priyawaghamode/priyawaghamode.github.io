@@ -12,7 +12,7 @@ Area of Interest :
 * Programming Languages: C, Java, Python
 * Web Developing Languages: HTML, CSS, Bootstrap
 * Database: MySQL
-* Operating Systems: Windows, Ubuntu
+* Operating Systems: Windows, Ubuntu 
 * Version Control System: Git
 * Softwares: Tableau, Visual Studio Code, Jupyter Notebook
 
