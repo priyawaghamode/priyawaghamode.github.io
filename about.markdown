@@ -8,7 +8,7 @@ I am Priya Abasaheb Waghamode. I have completed B.Tech in Computer Science and E
 
 
 Area of Interest :
-
+ 
 * Programming Languages: C, Java, Python
 * Web Developing Languages: HTML, CSS, Bootstrap
 * Database: MySQL
