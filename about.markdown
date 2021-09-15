@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am Priya Abasaheb Waghamode. I have completed B.Tech from Rajarambapu Institute of Technology, Islampur.
+I am Priya Abasaheb Waghamode. I have completed B.Tech in Computer Science and Engineering from Rajarambapu Institute of Technology, Islampur.
 
 
 Area of Interest :
