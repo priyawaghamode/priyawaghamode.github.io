@@ -21,6 +21,6 @@ Professional Abilities :
 
 * Experience at different phases of marketing like Social Media Marketing, LinkedIn Marketing.
 * Experienced Logo designer with demonstrate history of working in various websites.
-* Completed 2+ Web Development project.
+* Completed 2+ Web Development project. 
 
 GitHub: https://github.com/priyawaghamode
