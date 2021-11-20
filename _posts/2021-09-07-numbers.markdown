@@ -5,12 +5,14 @@ date:   2021-09-07 00:48:34 +0530
 categories: Maths
 ---
 Basic Trigonometric Formulas
-sinθ=OppositeSide/Hypotenuse
+* sinθ=OppositeSide/Hypotenuse
 
-cosθ=AdjacentSide/Hypotenuse
+* cosθ=AdjacentSide/Hypotenuse
 
-tanθ=OppositeSide/AdiacentSide
+* tanθ=OppositeSide/AdiacentSide
 
-secθ=Hypotenuse/AdjacentSide
-cosec0=Hypotenuse/OppositeSide
-cotθ=AdjacentSide/OppositeSide
+* secθ=Hypotenuse/AdjacentSide
+
+* cosec0=Hypotenuse/OppositeSide
+
+* cotθ=AdjacentSide/OppositeSide
