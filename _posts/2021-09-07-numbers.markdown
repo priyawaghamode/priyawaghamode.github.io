@@ -5,6 +5,7 @@ date:   2021-09-07 00:48:34 +0530
 categories: Maths
 ---
 Basic Trigonometric Formulas
+
 * sinθ=OppositeSide/Hypotenuse
 
 * cosθ=AdjacentSide/Hypotenuse
