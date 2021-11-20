@@ -12,3 +12,12 @@ Basic Trigonometric Formulas
 * secθ=Hypotenuse/AdjacentSide
 * cosecθ=Hypotenuse/OppositeSide
 * cotθ=AdjacentSide/OppositeSide
+
+Reciprocal Identities:
+* (i) θ=1/sinθ
+* (ii) secθ=1/cosθ
+* (iii) cotθ=1/tanθ
+* (iv) sinθ=1/cosecθ
+* (v) cosθ=1/secθ
+* (vi) tanθ=1/cotθ
+
