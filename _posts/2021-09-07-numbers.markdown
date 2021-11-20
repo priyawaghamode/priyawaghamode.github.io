@@ -1,7 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Numbers!"
+title:  "Welcome to Trigonometry!"
 date:   2021-09-07 00:48:34 +0530
 categories: Maths
 ---
-Numbers are the most interesting part of mathematics.
+Basic Trigonometric Formulas
+sinθ=OppositeSide/Hypotenuse
+cosθ=AdjacentSide/Hypotenuse
+tanθ=OppositeSide/AdiacentSide
+secθ=Hypotenuse/AdjacentSide
+θ=Hypotenuse/OppositeSide
+cotθ=AdjacentSide/OppositeSide
