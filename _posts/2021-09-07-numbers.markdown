@@ -6,8 +6,11 @@ categories: Maths
 ---
 Basic Trigonometric Formulas
 sinθ=OppositeSide/Hypotenuse
+
 cosθ=AdjacentSide/Hypotenuse
+
 tanθ=OppositeSide/AdiacentSide
+
 secθ=Hypotenuse/AdjacentSide
-θ=Hypotenuse/OppositeSide
+cosec0=Hypotenuse/OppositeSide
 cotθ=AdjacentSide/OppositeSide
