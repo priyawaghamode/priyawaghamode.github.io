@@ -10,5 +10,5 @@ Basic Trigonometric Formulas
 * cosθ=AdjacentSide/Hypotenuse
 * tanθ=OppositeSide/AdiacentSide
 * secθ=Hypotenuse/AdjacentSide
-* cosec0=Hypotenuse/OppositeSide
+* cosecθ=Hypotenuse/OppositeSide
 * cotθ=AdjacentSide/OppositeSide
